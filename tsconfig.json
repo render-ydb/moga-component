@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "rootDirs": ["src","demo"],
+        "outDir": "lib",
+        "jsx": "preserve",
+        "target": "ESNext",
+        "module": "UMD",
+        "moduleResolution":"node",
+        "declaration": true,
+        "skipLibCheck": true,
+        "typeRoots": [
+            "./app.d.ts",
+            "./node_modules/@types"
+        ],
+    },
+
+    "include": [
+        "src/*"
+    ]
+}

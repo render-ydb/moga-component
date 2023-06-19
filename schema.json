@@ -1,0 +1,17 @@
+{
+    "title": "demo component",
+    "properties": {
+        "name": {
+            "type": "string",
+            "required": true,
+            "value": "",
+            "mockValue": "current num"
+        },
+        "age": {
+            "type": "string",
+            "required": true,
+            "value": "",
+            "mockValue": "21"
+        }
+    }
+}

@@ -1,3 +1,3 @@
-module.exports= {
-    rules:[]
-}
+const { getStylelintConfig } = require('moga-lint');
+
+module.exports = getStylelintConfig('react');

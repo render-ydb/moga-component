@@ -1,7 +1,7 @@
 {
   "name": "moga-component",
-  "version": "2.0.0",
-  "description": "#### Description",
+  "version": "2.0.1",
+  "description": "#### moga-component是moga官方提供基础的react组件模板，可以在此基础上进行组件开发",
   "main": "lib/index.js",
   "module": "es/index.js",
   "scripts": {
@@ -26,12 +26,12 @@
     "url": "https://github.com/render-ydb/moga-component.git"
   },
   "files": [
-    "build",
+    "dist",
     "es",
     "lib"
   ],
   "keywords": [],
-  "author": "render",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.0.28",

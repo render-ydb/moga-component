@@ -1,17 +1,11 @@
 {
-    "title": "demo component",
+    "title": "moga-component",
     "properties": {
         "name": {
             "type": "string",
             "required": true,
             "value": "",
-            "mockValue": "current num"
-        },
-        "age": {
-            "type": "string",
-            "required": true,
-            "value": "",
-            "mockValue": "21"
+            "mockValue": "测试数据"
         }
     }
 }
